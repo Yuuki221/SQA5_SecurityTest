@@ -1,7 +1,9 @@
 # Vulnerability Three 
 
 > Site used : http://testasp.vulnweb.com
+
 > Vulnerability Name: XSS - DOM-based Cross-Site Scripting
+
 > Tools used: Google Chrome, Firefox 
 
 ## Steps to discover the vulnerability
