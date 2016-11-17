@@ -1,4 +1,4 @@
-# SAQ Deliverable 5: 
+# SQA Deliverable 5 
 
 > Vulnerability Test
 
